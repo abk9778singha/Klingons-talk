@@ -22,7 +22,7 @@ Are you a Start Trek fan? Then you must be knowing about Klingons. If not then n
 
 ## Screenshots -
 
-![App Screenshot](/img/klingonstalk.png)
+![App Screenshot](/img/klingonstalk.png | width=250x250)
 
 
 ## Author -
