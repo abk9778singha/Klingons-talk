@@ -17,7 +17,7 @@ HTML, CSS, JavaScript, fetch api in JavaScript
 This is an app to convert your text from English to Klingons language from Star Trek.Used javascript fetch method to get response from funtranslator API.
 
 
-Are you a Start Trek fan? Then you must be knowing about Klingons. If not now worries, The Klingons are a fictional extraterrestrial humanoid warrior species in the science fiction franchise Star Trek. The Klingon language is the constructed language spoken by the Klingons in the Star Trek Universe.
+Are you a Start Trek fan? Then you must be knowing about Klingons. If not then no worries, The Klingons are a fictional extraterrestrial humanoid warrior species in the science fiction franchise Star Trek. The Klingon language is the constructed language spoken by the Klingons in the Star Trek Universe.
 
 
 ## Screenshots -
