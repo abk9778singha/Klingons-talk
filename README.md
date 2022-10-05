@@ -22,7 +22,7 @@ Are you a Start Trek fan? Then you must be knowing about Klingons. If not then n
 
 ## Screenshots -
 
-<img src="/img/klingonstalk.png" width="400" height="400" />
+<img src="/img/klingonstalk.png" width="400" height="400" text-align="center" />
 
 
 ## Author -
