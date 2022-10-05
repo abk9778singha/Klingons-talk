@@ -1,5 +1,5 @@
 
-# Minions Speak App 
+# Klingons talk
 
 A translator app to convert your text from English to Klingons language from Star Trek.
 
